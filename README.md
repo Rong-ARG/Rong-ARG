@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Ronogar 👋
 
-<!--
-**Rong-ARG/Rong-ARG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer in training, based in Argentina. Learning Java and Spring Boot,
+building real projects instead of just following tutorials, and getting ready
+for my first job as a backend dev.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[appointment-system](https://github.com/Rong-ARG/appointment-system)** — a REST API for scheduling
+appointments between clients and professionals. Built with Java 21, Spring Boot,
+Spring Data JPA, MySQL, and Spring Security + JWT. I use it as my main practice
+project: adding features, then going back and hunting for bugs (found and fixed
+a few real authorization issues in there — check the README for details).
+
+## 🧰 Tech I use
+
+**Backend:** Java · Spring Boot · Spring Data JPA · Spring Security · JWT
+**Validation & tooling:** Jakarta Validation · Lombok · MySQL · Docker
+**Learning next:** Flyway migrations · JUnit testing
+
+## 🌱 How I work
+
+- I like understanding the "why" behind a fix
+- I review my own code for bugs and security issues before calling something done
+- Comfortable breaking down a problem, researching it, and coming back with a clear answer
+
+## 📫 Find me
+
+- GitHub: [@Rong-ARG](https://github.com/Rong-ARG)
+
+---
+*Currently open to backend / junior developer opportunities.*
