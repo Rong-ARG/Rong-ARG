@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Ronogar - Java Backend Developer" width="700">
+</p>
+
 # Hey, I'm Ronogar 👋
 
 Backend developer in training, based in Argentina. Learning Java and Spring Boot,
