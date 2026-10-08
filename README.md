@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Ronogar - Java Backend Developer" width="700">
+  <img src="assets/banner-v2.png" alt="Ronogar - Java Backend Developer" width="700">
 </p>
 
 # Hey, I'm Ronogar 👋
