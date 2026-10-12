@@ -137,15 +137,12 @@ real job would: with security, tests and CI.
 </tr>
 </table>
 
-## 📊 GitHub stats
+## 📊 GitHub activity
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rong-ARG&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&rank_icon=percentile" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rong-ARG&layout=compact&theme=algolia" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Rong-ARG&theme=dark&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Rong-ARG&theme=github-dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rong-ARG&layout=compact&theme=github_dark&hide_border=true" />
 </div>
-
 <br>
 
 <div align="center">
