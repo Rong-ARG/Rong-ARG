@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=6DB33F&center=true&vCenter=true&width=600&height=45&pause=1200&lines=Self-taught+Backend+Developer;Java+21+%2B+Spring+Boot;Spring+Security+%2B+JWT;155+tests+in+my+main+project;Open+to+junior+opportunities+%F0%9F%92%AC" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=6DB33F&center=true&vCenter=true&width=600&height=45&pause=1200&lines=Self-taught+Backend+Developer;Java+21+%2B+Spring+Boot;Spring+Security+%2B+JWT;150%2B+tests+in+my+main+project;Open+to+junior+opportunities+%F0%9F%92%AC" />
 </p>
 
 <p align="center">
@@ -30,9 +30,9 @@ appointments between clients and professionals, built to practice Java and Sprin
 real job would: with security, tests and CI.
 
 - 🔐 **JWT auth** with Spring Security, roles (USER/ADMIN) and ownership checks, so users can only touch their own data
-- 🧪 **155 tests** (JUnit 5, Mockito, MockMvc) running on **GitHub Actions** against a real MySQL
-- 🐛 **13 bugs and security issues** found in my own code and fixed, each documented in the project README (authorization gaps, orphaned records, error handling)
-- 📖 **26 endpoints** documented with Swagger/OpenAPI, MySQL via Docker Compose
+- 🧪 **150+ tests** (JUnit 5, Mockito, MockMvc) running on **GitHub Actions**, with a MySQL service for the full-context test
+- 🐛 **14 bugs and security issues** found in my own code and fixed, each documented in the project README (authorization gaps, orphaned records, error handling)
+- 📖 **27 endpoints** documented with Swagger/OpenAPI, MySQL via Docker Compose
 
 <div align="center">
   <a href="https://github.com/Rong-ARG/appointment-system">
@@ -84,6 +84,7 @@ real job would: with security, tests and CI.
 <td>
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
