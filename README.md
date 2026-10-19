@@ -30,7 +30,7 @@ appointments between clients and professionals, built to practice Java and Sprin
 real job would: with security, tests and CI.
 
 - 🔐 **JWT auth** with Spring Security, roles (USER/ADMIN) and ownership checks, so users can only touch their own data
-- 🧪 **150+ tests** (JUnit 5, Mockito, MockMvc) running on **GitHub Actions**, with a MySQL service for the full-context test
+- 🧪 **170+ tests** (JUnit 5, Mockito, MockMvc) running on **GitHub Actions**, with a MySQL service for the full-context test
 - 🐛 **14 bugs and security issues** found in my own code and fixed, each documented in the project README (authorization gaps, orphaned records, error handling)
 - 📖 **27 endpoints** documented with Swagger/OpenAPI, MySQL via Docker Compose
 
