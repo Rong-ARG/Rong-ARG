@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=6DB33F&center=true&vCenter=true&width=600&height=45&pause=1200&lines=Self-taught+Backend+Developer;Java+21+%2B+Spring+Boot;Spring+Security+%2B+JWT;150%2B+tests+in+my+main+project;Open+to+junior+opportunities+%F0%9F%92%AC" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=6DB33F&center=true&vCenter=true&width=600&height=45&pause=1200&lines=Self-taught+Backend+Developer;Java+21+%2B+Spring+Boot;Spring+Security+%2B+JWT;170%2B+tests+in+my+main+project;Open+to+junior+opportunities+%F0%9F%92%AC" />
 </p>
 
 <p align="center">
