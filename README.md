@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=6DB33F&center=true&vCenter=true&width=600&height=45&pause=1200&lines=Self-taught+Backend+Developer;Java+21+%2B+Spring+Boot;Spring+Security+%2B+JWT;170%2B+tests+in+my+main+project;Open+to+junior+opportunities+%F0%9F%92%AC" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=6DB33F&center=true&vCenter=true&width=600&height=45&pause=1200&lines=Self-taught+Backend+Developer;Java+21+%2B+Spring+Boot;Spring+Security+%2B+JWT;Docker+%2B+Flyway+%2B+Testcontainers;170%2B+tests+in+my+main+project;Open+to+junior+opportunities+%F0%9F%92%AC" />
 </p>
 
 <p align="center">
@@ -27,12 +27,13 @@ for my first job as a backend dev.
 
 **[appointment-system](https://github.com/Rong-ARG/appointment-system)** — a REST API for scheduling
 appointments between clients and professionals, built to practice Java and Spring Boot the way a
-real job would: with security, tests and CI.
+real job would: with security, tests, CI and Docker.
 
 - 🔐 **JWT auth** with Spring Security, roles (USER/ADMIN) and ownership checks, so users can only touch their own data
-- 🧪 **170+ tests** (JUnit 5, Mockito, MockMvc) running on **GitHub Actions**, with a MySQL service for the full-context test
-- 🐛 **14 bugs and security issues** found in my own code and fixed, each documented in the project README (authorization gaps, orphaned records, error handling)
-- 📖 **27 endpoints** documented with Swagger/OpenAPI, MySQL via Docker Compose
+- 🧪 **170+ tests** (JUnit 5, Mockito, MockMvc, Testcontainers) running on **GitHub Actions**, with **93% coverage** measured by JaCoCo
+- 🔒 **Double booking prevented twice**: a pessimistic lock in the service and a unique index in the database, with a concurrency test against a real MySQL container (without the lock, all 5 simultaneous requests got the same slot)
+- 🐛 **19 bugs and security issues** found in my own code and fixed, each documented in the project README (authorization gaps, race conditions, orphaned records, error handling)
+- 📖 **25 endpoints** documented with Swagger/OpenAPI, versioned **Flyway** migrations, and one-command startup with **Docker Compose** (app + MySQL)
 
 <div align="center">
   <a href="https://github.com/Rong-ARG/appointment-system">
@@ -66,6 +67,7 @@ real job would: with security, tests and CI.
 <td>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
 </td>
 </tr>
@@ -75,6 +77,7 @@ real job would: with security, tests and CI.
 
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMgMTlWNWgzLjJMMTIgMTMuMiAxNy44IDVIMjF2MTRoLTNWMTAuNGwtNiA4LjYtNi04LjZWMTl6Ii8%2BPC9zdmc%2BCg%3D%3D)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-0DB3A6?style=for-the-badge&logo=testcontainers&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </td>
@@ -99,14 +102,6 @@ real job would: with security, tests and CI.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td><b>🌱 Learning next</b></td>
-<td>
-
-![Flyway](https://img.shields.io/badge/Flyway-555555?style=for-the-badge&logo=flyway&logoColor=white)
 
 </td>
 </tr>
